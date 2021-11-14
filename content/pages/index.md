@@ -5,9 +5,16 @@ sections:
     type: section_hero
     title: SEO and Web Design Agency Cape Town
     image: /images/3.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We offer **SEO services** and are **web development** and** design
+      professionals**. We are based in **Cape Town** but serve the global
+      market. We also facilitate Web development using the latest technologies
+      such as Jamstack, Stackbit, Webflow and **WordPress**. We have the ability
+      and proven track record to rank your business and build your online
+      digital presence. We act as consultants and we are also able to implement,
+      build and design.  We are affordable and have built our business from the
+      ground upwards. We look forward to working with dynamic individuals and
+      businesses who desire to make the world a better place.
     actions:
       - label: Get Started
         url: /docs
