@@ -175,6 +175,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
+        image: /images/computer-2021-08-29-03-04-49-utc.jpg
       - title: Result's driven SEO
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
