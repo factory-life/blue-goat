@@ -187,7 +187,7 @@ sections:
     title: >-
       Let's talk further about how our SEO and web technology can assist your
       business growth
-    subtitle: This is an optional description for the call to action block.
+    subtitle: "We are always open\_ to talk, assist and be of service."
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
