@@ -85,7 +85,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
+      - title: Top web development and design company Cape Town
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
