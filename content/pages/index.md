@@ -152,7 +152,9 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: SEO and Web Design for people who want to make the World a better place.
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      We are affordable and offer a friendly and always negotiable way of doing
+      business.
     col_number: two
     grid_items:
       - title: Overview
