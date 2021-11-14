@@ -146,7 +146,7 @@ sections:
       some pretty big industries. We have helped every business that we have
       worked with getting to the number one position on Google respectively.
     actions:
-      - label: Get Started
+      - label: Results
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
