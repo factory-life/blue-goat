@@ -27,7 +27,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-    image: /images/1_elegant_BW_spotlight_background.jpg
+    image: /images/13.jpg
   - section_id: features
     type: section_grid
     col_number: three
