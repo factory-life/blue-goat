@@ -28,6 +28,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    image: /images/web development and seo consultant.jpeg
   - section_id: features
     type: section_grid
     col_number: three
