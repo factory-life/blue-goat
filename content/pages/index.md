@@ -156,10 +156,10 @@ sections:
     col_number: two
     grid_items:
       - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >
+          We would love for you to read our story as to how we came into
+          existence as a leading Cape Town technology company. Please click
+          below for further information and thank you for your interest.
         actions:
           - label: Learn More
             url: /overview
