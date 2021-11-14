@@ -62,7 +62,8 @@ models:
           - green
           - navy
           - violet
-          - B
+          - Black
+          - Orange
         default: blue
         required: true
       - type: model
