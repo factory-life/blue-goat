@@ -184,7 +184,9 @@ sections:
           ## Our SEO get's your business results and makes your business money.
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
+    title: >-
+      Let's talk further about how our SEO and web technology can assist your
+      business growth
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
