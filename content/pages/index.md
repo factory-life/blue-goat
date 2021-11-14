@@ -86,10 +86,31 @@ sections:
             url: /blog
             style: link
       - title: Top web development and design company Cape Town
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          IMG is a **Web Development and design company**. We know how to code
+          and we know how to design so that we are able to combine these
+          essential skill-sets into a single package and deliver something
+          special for our clients at prices that are really affordable. 
+
+
+          We take immense pride in being able to offer our Cape Town and South
+          African clients the latest technologies. This website was built using
+          Stackbit and features massive performance benefits and a really clean
+          and sharp design. We were so happy that we could combine code and
+          design using Stackbit and when we discovered more about this
+          technology we had to build a website with it. 
+
+
+          We offer WordPress websites that are state-of-the-art alongside
+          Webflow websites and Jamstack/ Stackbit websites. We also build
+          websites using Shopify for large-scale e-commerce solutions.
+
+
+          It is our goal to deliver you a mobile responsive website that
+          satisfies Google's core web vitals. This means that the performance of
+          your website must be amazing and very fast. Our best advice is that if
+          you are uncertain which technology to go for oor use then contact us
+          on +2776 382 2832 or email dino@roxxstar.co.za.
         actions:
           - label: Learn More
             url: /style-guide
