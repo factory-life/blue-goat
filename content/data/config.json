@@ -53,7 +53,7 @@
             {
                 "label": "Contact us",
                 "url": "https://github.com/",
-                "style": "primary",
+                "style": "secondary",
                 "has_subnav": false
             }
         ]
