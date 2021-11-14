@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: SEO and Web Design Agency Cape Town
-    image: /images/9-d413907c.jpg
     content: >
       IMG Digital is a web development and search engine optimisation company
       based in Cape Town, South Africa. Our business facilitates Web development
