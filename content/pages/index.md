@@ -175,7 +175,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-      - title: Resul
+      - title: 'Result''s '
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
