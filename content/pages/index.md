@@ -24,10 +24,25 @@ sections:
     col_number: three
     grid_items:
       - title: Cape Town SEO Agency
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          We can be found in **Cape Town** but that does not limit us to serving
+          an entirely international market. Our skill set is expansive and our
+          ***SEO ***includes the following
+
+
+          *   ***On-Page SEO, Off-Page SEO, Content SEO, Technical SEO***
+
+
+          *   We offer incredible prices for full house SEO and feel we
+          overdeliver in terms of the value provided.
+
+
+          *   We get you results, increase your brand's online visibility and
+          credibility.
+
+
+          *   Fluent in English will find that our agency is pleasant to deal
+          with and always willing to go the extra mile
         actions:
           - label: Get Started
             url: /docs
