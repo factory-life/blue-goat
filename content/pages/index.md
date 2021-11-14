@@ -175,7 +175,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-        image: /images/Artboard-23.png
+        image: /images/Artboard-28.png
       - title: Result's driven SEO
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
