@@ -141,10 +141,10 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: We are all about delivering you results
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Take a look at some of the results we have achieved for our customers in
+      some pretty big industries. We have helped every business that we have
+      worked with getting to the number one position on Google respectively.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
