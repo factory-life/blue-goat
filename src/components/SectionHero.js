@@ -14,7 +14,7 @@ export default class SectionHero extends React.Component {
         const backgroundImage = _.get(section, 'image');
 
         return (
-            <section id={sectionId} className="<lock block-hero">
+            <section id={sectionId} className="lock block-hero">
                 {backgroundImage && (
                     <div
                         className="bg-img"
