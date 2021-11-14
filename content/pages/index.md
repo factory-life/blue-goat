@@ -190,6 +190,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/seo services cape town.jpg
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
