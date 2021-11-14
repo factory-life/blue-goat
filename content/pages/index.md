@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: 'SEO '
     image: /images/3.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
