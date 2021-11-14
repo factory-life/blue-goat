@@ -48,9 +48,39 @@ sections:
             url: /docs
             style: link
       - title: SEO Blog Cape Town
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Our ***SEO blog*** is going to deliver the hottest news and
+          developments within the SEO industry. We will educate you on all
+          matters to do with search engine optimization through our masterful
+          content writing. Subjects that we shall look at include the following
+
+
+          *   The current state of the SEO industry
+
+
+          *   Why buy SEO services from South Africa
+
+
+          *   SEO and why it must be transparent and directly measurable
+
+
+          *   Link building and our thoughts about the various approaches
+          towards getting links
+
+
+          *   Top SEO agencies South Africa
+
+
+          *   Top SEO agencies India
+
+
+          *   Does SEO deliver value?
+
+
+          *   Top 10 factors to ensure you are paying for a good SEO agency.
+
+
+          *   More related information and SEO case studies.
         actions:
           - label: View Posts
             url: /blog
