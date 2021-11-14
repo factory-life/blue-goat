@@ -180,6 +180,8 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
+        content: |
+          ## Our SEO get's your business results and makes your business money.
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
