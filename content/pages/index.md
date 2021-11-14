@@ -166,6 +166,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
+        image: /images/nn.jpg
       - title: Brands and companies who work with us
         content: >
           We work with Brands across a variety of different industry types so no
